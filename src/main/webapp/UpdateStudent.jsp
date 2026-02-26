@@ -19,7 +19,7 @@
 				var sper = td[2].querySelector("input").value;
 				
 			//fetc(URL,{method,body})
-				fetch("http://localhost:8080/00-jsp-servlet-App/UpdateStudent",
+				fetch("./UpdateStudent",
 						{	
 							method: "POST",
 							body:new URLSearchParams({'srno':srno,'sname':sname,'sper':sper,'sbtn':"update"})

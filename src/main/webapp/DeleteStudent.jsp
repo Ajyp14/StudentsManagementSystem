@@ -14,7 +14,7 @@
    			{
 					console.log("In js modify");
 			//fetc(URL,{method,body})
-				fetch("http://localhost:8080/00-jsp-servlet-App/DeleteStudent",
+				fetch("./DeleteStudent",
 						{	
 							method: "POST",
 							body:new URLSearchParams({'srno':srno,'sbtn':"delete"})
