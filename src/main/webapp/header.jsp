@@ -14,7 +14,7 @@
 <!-- Navbar Starts -->
 	<nav class="navbar navbar-dark bg-dark fixed-top">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="#">Firstbit Sulotions</a>
+			<a class="navbar-brand" href="#">Firstbit Solutions</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar"
 				aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
