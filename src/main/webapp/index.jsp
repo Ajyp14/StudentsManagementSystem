@@ -12,7 +12,7 @@
 <h1 class="text-center" style="margin-top:200px" >Welcome to student management portal</h1>
 
 <div id="carouselExample" class="carousel slide">
-  <div class="carousel-inner">
+  <%--<div class="carousel-inner">
     <div class="carousel-item active">
       <img src="..." class="d-block w-100" alt="...">
     </div>
@@ -22,7 +22,7 @@
     <div class="carousel-item">
       <img src="..." class="d-block w-100" alt="...">
     </div>
-  </div>
+  </div>  --%>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
