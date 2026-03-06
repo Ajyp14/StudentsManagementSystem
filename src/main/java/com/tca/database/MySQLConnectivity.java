@@ -16,7 +16,6 @@ public class MySQLConnectivity  {
 //		final String DB_DRIVER="org.postgresql.Driver";
 
 		final String DB_DRIVER="org.postgresql.Driver";
-		
 		final String DB_URL="jdbc:postgresql://ep-cool-bonus-a1uc73vp-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require";
 		final String DB_USER="neondb_owner";
 		final String DB_PWD="npg_4CLguOEH3nrF";

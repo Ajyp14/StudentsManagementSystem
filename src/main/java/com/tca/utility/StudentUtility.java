@@ -21,7 +21,7 @@ public class StudentUtility {
           try {
             con.setAutoCommit(false);
 
-			PreparedStatement preparedStatement =con.prepareStatement("insert into student value(?,?,?)");
+			PreparedStatement preparedStatement =con.prepareStatement("insert into student values(?,?,?)");
 			preparedStatement.setInt(1, student.getRno());
 			preparedStatement.setString(2, student.getName());
 			preparedStatement.setDouble(3, student.getPer());
